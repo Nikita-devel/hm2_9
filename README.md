@@ -1,3 +1,5 @@
+[Main page](https://github.com/Nikita-devel) | [Python Web Page](https://github.com/Nikita-devel/Python_Web)
+
 # Web Scraping Project - Quotes and Authors
 
 This project involves web scraping using the Scrapy framework to extract quotes and author information from the website [http://quotes.toscrape.com](http://quotes.toscrape.com). The goal is to generate two JSON files: `quotes.json` containing details about quotes from all pages and `authors.json` containing information about the authors of the specified quotes. The structure of the JSON files should align with the previous homework.
